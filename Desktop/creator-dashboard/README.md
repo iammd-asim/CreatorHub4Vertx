@@ -1,10 +1,10 @@
-# 🎯 Creator Dashboard – VertxAI MERN Stack Developer Assignment
+# 🎯 Creator Hub – VertxAI MERN Stack Developer Assignment
 
 A full-stack web application where content creators can manage their profiles, interact with a personalized content feed, and earn credit points. Designed for the VertxAI assignment to demonstrate proficiency with the MERN stack and deployment best practices.
 
 ## 📌 Project Description
 
-The **Creator Dashboard** empowers users (creators) to:
+The Creator Hub empowers users (creators) to:
 - Register and log in securely.
 - Earn and manage credit points.
 - Interact with aggregated content from social platforms.
