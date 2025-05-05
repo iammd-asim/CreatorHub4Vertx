@@ -46,8 +46,8 @@ Admins have extended control to manage users and monitor platform activity.
   - View user metrics and feed interaction analytics
 
 ### 🚀 5. Deployment
-- **Backend**: Node.js + Express.js deployed on **Google Cloud Run**
-- **Frontend**: React.js + Tailwind CSS hosted on **Firebase Hosting**
+- **Backend**: Node.js + Express.js deployed on netlify
+- **Frontend**: React.js + Tailwind CSS hosted on netlify
 
 ---
 
